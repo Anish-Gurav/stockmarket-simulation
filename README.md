@@ -1,4 +1,4 @@
-# Stockmarket Simulation     
+# Stockmarket Simulation      
  
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/stockmarkat/stockmarket-simulation/issues)
 [![Build Status](https://travis-ci.org/stockmarkat/stockmarket-simulation.svg?branch=master)](https://travis-ci.org/stockmarkat/stockmarket-simulation)
